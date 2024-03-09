@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claudiu-deving
 - 👀 I’m interested in BIM Software development
-- 🌱 I’m currently learning domain modeling
+- 🌱 I’m currently learning domain modeling, mainly in .NET applications
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/claudiu-strugar/)
 
 <!---
