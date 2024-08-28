@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="26" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#2B2C38" math="0" shadow="1">
+    <mxGraphModel dx="1687" dy="911" grid="1" gridSize="26" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#2B2C38" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -98,6 +98,33 @@
         </mxCell>
         <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-35" value="User 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="908" y="442" width="67" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dpVUBXbJ4d0EwmAiKQ-G-37" target="dpVUBXbJ4d0EwmAiKQ-G-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-37" value="User 1 needs changes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="26" y="520" width="208" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dpVUBXbJ4d0EwmAiKQ-G-38" target="dpVUBXbJ4d0EwmAiKQ-G-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-38" value="Change request object" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="520" width="208" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dpVUBXbJ4d0EwmAiKQ-G-40" target="dpVUBXbJ4d0EwmAiKQ-G-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-40" value="When any users enters the model, they can see the requested changes and their status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="614" y="507" width="208" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dpVUBXbJ4d0EwmAiKQ-G-42" target="dpVUBXbJ4d0EwmAiKQ-G-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-42" value="Upon completion, the user marks the CR as fulfilled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="902" y="507" width="208" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-44" value="The initial user validates the change or requests new one" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="507" width="208" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
