@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1687" dy="911" grid="1" gridSize="26" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#2B2C38" math="0" shadow="1">
+    <mxGraphModel dx="989" dy="534" grid="1" gridSize="26" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#2B2C38" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -125,6 +125,24 @@
         </mxCell>
         <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-44" value="The initial user validates the change or requests new one" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1190" y="507" width="208" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dpVUBXbJ4d0EwmAiKQ-G-46" target="dpVUBXbJ4d0EwmAiKQ-G-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-46" value="Change rebar group spacing and diameter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="32" y="630.5" width="208" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-47" value="&lt;div align=&quot;left&quot;&gt;Change request object&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Localization&lt;/li&gt;&lt;li&gt;Applicability&lt;/li&gt;&lt;li&gt;Requirements&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="637" width="208" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-48" value="Model responsible assigns the CR to an user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="630.5" width="208" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-52" value="&lt;div&gt;The user assigned to completes the CR&lt;/div&gt;&lt;div&gt;If the requirements are fulfillled, the CR status is set to fullfiled, the user is informed&lt;/div&gt;&lt;div&gt;The user can set the CR as finished even without fullfilment&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="902" y="630.5" width="208" height="123.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dpVUBXbJ4d0EwmAiKQ-G-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="630.5" width="208" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
