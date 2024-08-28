@@ -6,7 +6,7 @@
 - Developing a principle based sofware design:
     - _**"Make illegal states unrepresentable"**_ [Yaron Minsky](https://blog.janestreet.com/effective-ml-revisited/)
 
-P.S. Working on my own [website](https://www.ccsflow.com)
+P.S. Working on my own [website](https://www.bitluz.com)
 
 
 <!---
