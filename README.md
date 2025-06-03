@@ -36,3 +36,6 @@ Started coding to optimize engineering calculations and quickly discovered the p
 - AWS
 
 🎯 Always looking for ways to bridge the gap between engineering precision and software efficiency. If it can be automated, it probably should be.
+
+
+PS. I am also interested in AI, working on a project (I keep it secret for now).
