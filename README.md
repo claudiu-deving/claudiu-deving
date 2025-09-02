@@ -13,7 +13,6 @@ Started coding to optimize engineering calculations and quickly discovered the p
 ### 🚀 **Personal Projects:**
 - **Instructo** - Driving School Aggregator 🚗
     - [Back-End](https://github.com/claudiu-deving/Instructo)
-    - [Front-End](https://github.com/claudiu-deving/Instructo-Fe)
 - **Blogging Personal Website** 📝
     - see [repo for FE](https://github.com/claudiu-deving/PersonalWebsite)
     - see [repo for BE](https://github.com/claudiu-deving/APIServer)
