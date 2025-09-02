@@ -17,8 +17,6 @@ Started coding to optimize engineering calculations and quickly discovered the p
 - **Blogging Personal Website** 📝
     - see [repo for FE](https://github.com/claudiu-deving/PersonalWebsite)
     - see [repo for BE](https://github.com/claudiu-deving/APIServer)
-- **Tekla Structures Extension** for printing drawings 🖨️
-    - see [repo](https://github.com/claudiu-deving/TeklaStructuresDrawingNameComposer)
 
 ### 📚 **Currently Learning:**
 - Rich Domain Modeling
